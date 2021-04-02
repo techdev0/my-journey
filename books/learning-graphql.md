@@ -13,8 +13,15 @@ REST
 
 REST Drawbacks
 1. Overfetching
+2. Underfetching
+3. Slower user experience
+
+REST Complaints:
+1. Lack of flexibility: endpoints can begin to multiply quickly
+2. Development speed can be slow (frontend/backend teams have to communicate more)
 
 GraphQL Benefits
 1. We get the data in the shape that we need it, nothing more, nothing less.
 2. More declarative queries
-3. Faster results 
+3. Faster results (no extraneous data)
+4. Typical architecture involves a single endpoint
