@@ -4,7 +4,7 @@ Remote Procude Calls
 
 Simple Object Access Protocol (SOAP)
 1. Emereged at Microsoft in the late 1990's.
-2. Used XML to encode messages via HTTP
+2. Used XML to encode messages via HTTP, which created a painful step for developers (having to parse it before being able to use the data)
 3. Shortcomings: caused frustrations because SOAP implementations were fairly complex
 
 REST
