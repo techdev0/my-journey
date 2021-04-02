@@ -39,4 +39,5 @@ In the Real World
 GraphQL Clients
 1. Leaders:
    - Relay (http://relay.dev)
+      - Works with React/Native
    - Apollo (https://apollographql.com)
