@@ -25,4 +25,4 @@ GraphQL Benefits
 2. More declarative queries
 3. Faster results (no extraneous data)
 4. Typical architecture involves a single endpoint
-    a. A single endpoint can be a gatewate to multiple data sources
+    - A single endpoint can be a gatewate to multiple data sources
