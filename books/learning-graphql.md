@@ -9,3 +9,4 @@ Simple Object Access Protocol (SOAP)
 
 REST
 1. Initially, REST was used with XML.
+2. JSON was developed by Douglas Crockford who also wrote JavaScript: The Good Parts, in which he mentions that JSON was one fo the good parts.
