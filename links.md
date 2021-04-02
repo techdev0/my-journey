@@ -1,6 +1,4 @@
-Full-Stack JS Apps
 
-https://www.meteor.com/
+Full-Stack JS Framework  https://www.meteor.com/ 
 
-GraphQL
-https://github.com/moonhighway/learning-graphql
+GraphQL - https://github.com/moonhighway/learning-graphql
