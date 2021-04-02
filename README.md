@@ -8,4 +8,4 @@ The nice thing about Github is that you have the option of working on your repos
 
 ### Vim
 
-What's a side-effect of using Vim?  You start typing Vim commands when using other text editors, without even thinking about it. :D
+What's a side effect of using Vim?  You start typing Vim commands when using other text editors, without even thinking about it. :D
