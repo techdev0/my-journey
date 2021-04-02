@@ -16,3 +16,5 @@ REST Drawbacks
 
 GraphQL Benefits
 1. We get the data in the shape that we need it, nothing more, nothing less.
+2. More declarative queries
+3. Faster results 
