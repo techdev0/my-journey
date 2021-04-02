@@ -7,3 +7,4 @@ Simple Object Access Protocol (SOAP)
 
 1. Emereged at Microsoft in the late 1990's.
 2. Used XML to encode messages via HTTP
+3. Shortcomings: caused frustrations because SOAP implementations were fairly complex
