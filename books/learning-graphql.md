@@ -41,3 +41,4 @@ GraphQL Clients
    - Relay (http://relay.dev)
       - Works with React/Native
    - Apollo (https://apollographql.com)
+      - Developed by Meteor Development Group
