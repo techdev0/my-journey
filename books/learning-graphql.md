@@ -33,5 +33,10 @@ Incremental adaption
 
 In the Real World
 1. Github's API version 4 uses GraphQL
-2. Other usesrs:
+2. Other users:
    - New York TImes, IBM, Twitter, Yelp
+
+GraphQL Clients
+1. Leaders:
+   - Relay (http://relay.dev)
+   - Apollo (https://apollographql.com)
