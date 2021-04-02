@@ -1,4 +1,4 @@
-# my journey
+# My Journey
 
 I will use the repository to document my journey as a software developer.
 
@@ -9,3 +9,7 @@ The nice thing about Github is that you have the option of working on your repos
 ### Vim
 
 What's a side effect of using Vim?  You start typing Vim commands when using other text editors, without even thinking about it. :D
+
+### My Objective
+
+To become a well-rounded engineer that not only understands software development, but also hardware engineering.
