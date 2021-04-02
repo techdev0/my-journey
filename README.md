@@ -6,7 +6,6 @@ I am current at this moment, learning GraphQL; and I will be documenting my jour
 
 The nice thing about Github is that you have the option of working on your repositories from Github's web-based interface or from your own system of choice (Linux, Windows, Mac, etc).
 
-Vim
--
+### Vim
 
 What's a side-effect of using Vim?  You start typing Vim commands when using other text editors, without even thinking about it. :D
