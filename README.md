@@ -1,4 +1,4 @@
-# my-journey
+# my journey
 
 I will use the repository to document my journey as a software developer.
 
