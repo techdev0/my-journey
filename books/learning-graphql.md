@@ -15,4 +15,4 @@ REST Drawbacks
 1. Overfetching
 
 GraphQL Benefits
-1. We get the data in the shape that we need it, not more, nothing less.
+1. We get the data in the shape that we need it, nothing more, nothing less.
