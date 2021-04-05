@@ -63,3 +63,8 @@ Links:
     - simple way to create a GraphQL server with Express
     - first library
 3. Apollo server
+4. schema
+    - defines the operations clients are allowed
+    - how different types are related
+5. resolver
+    - function that returns data for a particular field
