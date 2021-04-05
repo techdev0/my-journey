@@ -1,3 +1,5 @@
+## Chapter 1
+
 Remote Procedure Calls
 1. Invented in the 1960's
 2. Used for communication between clients/servers
@@ -48,7 +50,7 @@ Links:
 - Data Fetching in React - https://www.youtube.com/watch?v=9sc8Pyc51uU
 - A Gentle Intro to Graph Theory - https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory
 
-Chapter 4: Designing a Schema
+## Chapter 4: Designing a Schema
 1. schema first
     - Schema Definition Language (SDL)
     - Schema documents
