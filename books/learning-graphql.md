@@ -79,6 +79,24 @@ type Friendship {
 ```
 6. union type
   - returns one of several different types
+```
+union AgendaItem = StudyGroup | Workout
+
+type StudyGroup {
+    name: String!
+    subject: String
+    students: [User!]!
+}
+
+type Workout {
+    name: String!
+    reps: Int!
+}
+
+type Query {
+    agenda: [AgendaItem!]!
+}
+```
 
 ## Chapter 5: Creating a GraphQL API
 1. GraphQL.js: reference implementation by Fb
