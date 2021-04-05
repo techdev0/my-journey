@@ -47,6 +47,21 @@ query {
     - do not have names
     - assign selection sets to specific types directly within the query
     - used to define which fields to select from a union of different types of objects
+```
+ query schedule {
+    agenda {
+    ...on Workout {
+      name
+      reps
+    }
+    ...on StudyGroup {
+      name
+      subject
+      students
+    }
+  }
+}
+```
 4. using fragments to query a union type:
 ```
 query today {
