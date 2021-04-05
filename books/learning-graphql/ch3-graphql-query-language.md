@@ -12,3 +12,15 @@ query liftsAndTrails {
   }
 }
 ```
+
+Fragments
+1. Selection sets that can be reused in multiple operations
+```
+fragment liftInfo on Lift {
+  name
+  status
+  capacity
+  night
+  elevationGain
+}
+```
