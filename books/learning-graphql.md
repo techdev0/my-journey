@@ -47,3 +47,6 @@ Links:
 - GraphQL Server Libraries - https://graphql.org/code
 - Data Fetching in React - https://www.youtube.com/watch?v=9sc8Pyc51uU
 - A Gentle Intro to Graph Theory - https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory
+
+Chapter 4: Designing a Schema
+1. schema first
