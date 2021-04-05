@@ -43,3 +43,6 @@ query {
     }
 }
 ```
+3. inline fragments
+    - do not have names
+    - assign selection sets to specific types directly within the query
