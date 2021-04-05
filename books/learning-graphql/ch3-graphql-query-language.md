@@ -82,3 +82,7 @@ fragment study on StudyGroup {
   students
 }
 ```
+
+Mutations
+1. have names
+2. have selections sets that return object types/scalars
