@@ -57,6 +57,12 @@ Links:
       - define the types available in an application
       - used to validate GraphQL requests (backend and frontend)
 2. scalar types: Int, Float, String, Boolean,ID
+3. custom scalar types
+    1. `scalar DateTime`
+    2. graphql-custom-types npm package
+        - commonly used custom scalar types
+4. enumaration (enum) types
+    - limits the values (strings) allowed for a particular field
 
 ## Chapter 5: Creating a GraphQL API
 1. GraphQL.js: reference implementation by Fb
