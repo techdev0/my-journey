@@ -51,4 +51,6 @@ Links:
 Chapter 4: Designing a Schema
 1. schema first
     - Schema Definition Language (SDL)
-    - Schema documents define the types available in an application, used to validate GraphQL requests (backend and frontend)
+    - Schema documents
+      - define the types available in an application
+      - used to validate GraphQL requests (backend and frontend)
