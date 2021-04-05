@@ -24,7 +24,7 @@ fragment liftInfo on Lift {
   elevationGain
 }
 ```
-2. using the fragment in a selection set:
+2. using the fragment in a selection set (use three dots with the fragment name):
 ```
 query {
     Lift(id: "jazz-cat") {
