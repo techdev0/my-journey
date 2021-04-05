@@ -77,6 +77,8 @@ type Friendship {
     whereWeMet: Location
 }
 ```
+6 union type
+  - returns one of several different types
 
 ## Chapter 5: Creating a GraphQL API
 1. GraphQL.js: reference implementation by Fb
