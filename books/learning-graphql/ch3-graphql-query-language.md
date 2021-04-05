@@ -24,3 +24,22 @@ fragment liftInfo on Lift {
   elevationGain
 }
 ```
+2. using the fragment in a selection set:
+```
+query {
+    Lift(id: "jazz-cat") {
+      ...liftInfo
+      trailAccess {
+        name
+        difficulty
+      }
+    }
+    Trail(id: "river-run") {
+      name
+      difficulty
+      accessedByLifts {
+        ...liftInfo
+      }
+    }
+}
+```
