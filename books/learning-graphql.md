@@ -63,6 +63,20 @@ Links:
         - commonly used custom scalar types
 4. enumaration (enum) types
     - limits the values (strings) allowed for a particular field
+5. through types
+    - used to connect two nodes
+
+```
+type User {
+    friends: [Friendship!]!
+}
+type Friendship {
+    friend_a: User!
+    friend_b: User!
+    howLong: Int!
+    whereWeMet: Location
+}
+```
 
 ## Chapter 5: Creating a GraphQL API
 1. GraphQL.js: reference implementation by Fb
