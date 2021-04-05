@@ -56,3 +56,10 @@ Links:
     - Schema documents
       - define the types available in an application
       - used to validate GraphQL requests (backend and frontend)
+
+## Chapter 5: Creating a GraphQL API
+1. GraphQL.js: reference implementation by Fb
+2. express-graphql
+    - simple way to create a GraphQL server with Express
+    - first library
+3. Apollo server
