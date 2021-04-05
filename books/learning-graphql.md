@@ -56,6 +56,7 @@ Links:
     - Schema documents
       - define the types available in an application
       - used to validate GraphQL requests (backend and frontend)
+2. scalar types: Int, Float, String, Boolean,ID
 
 ## Chapter 5: Creating a GraphQL API
 1. GraphQL.js: reference implementation by Fb
