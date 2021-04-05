@@ -77,7 +77,7 @@ type Friendship {
     whereWeMet: Location
 }
 ```
-6 union type
+6. union type
   - returns one of several different types
 
 ## Chapter 5: Creating a GraphQL API
