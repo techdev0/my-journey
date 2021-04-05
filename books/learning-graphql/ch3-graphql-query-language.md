@@ -46,4 +46,4 @@ query {
 3. inline fragments
     - do not have names
     - assign selection sets to specific types directly within the query
-    - used to define which fields to select when a union returns different types of objects
+    - used to define which fields to select from a union of different types of objects
