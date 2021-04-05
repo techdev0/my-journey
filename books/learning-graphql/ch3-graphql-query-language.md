@@ -86,3 +86,21 @@ fragment study on StudyGroup {
 Mutations
 1. have names
 2. have selections sets that return object types/scalars
+3. using query variables:
+```
+mutation createSong($title:String! $numberOne:Int $by:String!) {
+  addSong(title:$title, numberOne:$numberOne, performerName:$by) {
+    id
+    title
+    numberOne
+  }
+}
+```
+4. sending input data as a json object:
+```
+{
+  "title": "No Scrubs",
+  "numberOne": true,
+  "by": "TLC"
+}
+```
