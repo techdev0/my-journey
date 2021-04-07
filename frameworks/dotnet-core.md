@@ -7,5 +7,5 @@ https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-overview?view=sql-se
 #### Win10 VM's
 https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
 
-#### ASP.NET Core Blaz0r
+#### ASP.NET Core Blazor
 https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0
